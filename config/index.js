@@ -7,12 +7,12 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: '',
+  APP_ID: 'wxcb4a193e240d7f1e',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '',
+  APP_SECRET: 'c3810698e330e3bf9f747b48b356ad4e',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -60,7 +60,7 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [oserH5seu2FYroFXQ_sKsK6wcbpE
     {
       // 想要发送的人的名字
       name: '老婆0',
@@ -218,7 +218,7 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'zjx5bp7FpbX8-ot5xKF6QR4bReqn9U-Z05flGSh73os',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -239,9 +239,9 @@ const USER_CONFIG = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '广东',
+  PROVINCE: '山东',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '惠州',
+  CITY: '临沂',
 
   /** 重要节日相关 */
 
@@ -265,7 +265,7 @@ const USER_CONFIG = {
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
     {
-      type: '*生日', name: '老婆', year: '1996', date: '09-09', isShowAge: true,
+      type: '*生日', name: '鸣宝', year: '2002', date: '05-01', isShowAge: true,
     },
     {
       type: '节日', name: '结婚纪念日', year: '2020', date: '09-03',
@@ -296,8 +296,8 @@ const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    { keyword: 'love_day', date: '2022-09-08' },
-    // 结婚纪念日
+    { keyword: 'love_day', date: '2022-04-25' },
+    // 恋爱时长
     { keyword: 'marry_day', date: '2022-09-09' },
     // 退伍日
     { keyword: 'ex_day', date: '2022-09-10' }
