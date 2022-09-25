@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oserH5seu2FYroFXQ_sKsK6wcbpE',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'EKU2whJpVWPXvIbzUILgvySR8L319uCChNujg2tyWqo',
+      useTemplateId: 'oRQvGGyODmtoYR_Fra-HbeEgbpPxL3kXxhJcqQHBxBc',
       // 所在省份
       province: '山东',
       // 所在城市
