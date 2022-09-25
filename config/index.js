@@ -99,10 +99,10 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-04-25' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
-        // 退伍日
-        { keyword: 'ex_day', date: '2022-09-10' }
+        // 鸣宝生日
+        { keyword: 'marry_day', date: '2002-05-01' },
+        // 小杨bb生日
+        { keyword: 'ex_day', date: '2002-02-24' }
       ],
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
